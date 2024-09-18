@@ -73,3 +73,5 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 GalacticDeliveryServ/Saved/Telemetry/Telemetry.json
+GalacticDeliveryServ/Saved/Telemetry/Telemetry.json
+GalacticDeliveryServ/Saved/Logs/GalacticDeliveryServ.log
